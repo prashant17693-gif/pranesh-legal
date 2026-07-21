@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://praneshlegal.com/sitemap.xml
